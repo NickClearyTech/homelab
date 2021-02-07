@@ -1,0 +1,10 @@
+Bind9:
+https://serverspace.io/support/help/bind9-as-a-primary-dns-server-on-ubuntu/
+https://serverspace.us/support/help/configure-bind9-dns-server-on-ubuntu/
+
+configuring isc-dhcp server:
+https://www.howtoforge.com/tutorial/install-and-configure-isc-dhcp-server-in-debian-9/
+
+Open LDAP:
+https://www.linux.com/topic/desktop/how-install-openldap-ubuntu-server-1804/
+https://computingforgeeks.com/install-and-configure-openldap-server-ubuntu/
