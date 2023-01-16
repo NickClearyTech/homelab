@@ -8,3 +8,16 @@ https://www.howtoforge.com/tutorial/install-and-configure-isc-dhcp-server-in-deb
 Open LDAP:
 https://www.linux.com/topic/desktop/how-install-openldap-ubuntu-server-1804/
 https://computingforgeeks.com/install-and-configure-openldap-server-ubuntu/
+
+Proxmox Template:
+https://austinsnerdythings.com/2021/08/30/how-to-create-a-proxmox-ubuntu-cloud-init-image/
+
+Proxmox Terraform:
+https://austinsnerdythings.com/2021/09/01/how-to-deploy-vms-in-proxmox-with-terraform/
+
+Deplying rancher and microk8s:
+https://www.alvanle.me/articles/2021-08-15-microk8s-rancher
+
+Services to look into:
+Sonarr
+Radarr
